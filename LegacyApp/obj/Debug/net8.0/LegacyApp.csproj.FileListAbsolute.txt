@@ -1,0 +1,17 @@
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\bin\Debug\net8.0\LegacyApp.exe
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\bin\Debug\net8.0\LegacyApp.deps.json
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\bin\Debug\net8.0\LegacyApp.runtimeconfig.json
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\bin\Debug\net8.0\LegacyApp.dll
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\bin\Debug\net8.0\LegacyApp.pdb
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.csproj.AssemblyReference.cache
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfoInputs.cache
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.AssemblyInfo.cs
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.csproj.CoreCompileInputs.cache
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.csproj.Up2Date
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.dll
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\refint\LegacyApp.dll
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.pdb
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\LegacyApp.genruntimeconfig.cache
+C:\Users\Pedro\Desktop\IS\Pratica\LegacyApp\obj\Debug\net8.0\ref\LegacyApp.dll
